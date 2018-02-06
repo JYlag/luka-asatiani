@@ -1,5 +1,4 @@
 from app import db
-from hashutils import make_pw_hash
 
 class Image(db.Model):
 
